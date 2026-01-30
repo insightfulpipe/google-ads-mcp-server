@@ -1,11 +1,14 @@
-# Google Ads MCP Server
+# Google Ads MCP Server by Insightful Pipe
 
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue)](https://insightfulpipe.com/mcp-servers/google-ads)
+[![Insightful Pipe](https://img.shields.io/badge/Insightful_Pipe-MCP_Servers-purple)](https://insightfulpipe.com/mcp-servers)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **The most powerful Google Ads MCP server for AI-powered advertising analytics and campaign management.**
 
-Connect your Google Ads account to Claude, ChatGPT, Cursor, and other AI assistants using the Model Context Protocol (MCP). Analyze campaigns, optimize ad spend, and get AI-driven insights directly in your conversations.
+Part of the [Insightful Pipe MCP Server Collection](https://insightfulpipe.com/mcp-servers) — Connect your Google Ads account to Claude, ChatGPT, Cursor, and other AI assistants using the Model Context Protocol (MCP). Analyze campaigns, optimize ad spend, and get AI-driven insights directly in your conversations.
+
+[![Explore All MCP Servers](https://img.shields.io/badge/Explore_All-MCP_Servers-blue?style=for-the-badge)](https://insightfulpipe.com/mcp-servers)
 
 ![Google Ads MCP Server](https://insightfulpipe.com/images/google_ads-icon.svg)
 
@@ -185,11 +188,24 @@ gemini mcp add --url https://google-ads.insightfulmcp.com/
 - **Data encryption** - All data transmitted securely
 - **SOC 2 compliant** - Enterprise-grade security
 
-## Related MCP Servers
+## Explore More MCP Servers by Insightful Pipe
 
+Visit **[insightfulpipe.com/mcp-servers](https://insightfulpipe.com/mcp-servers)** to discover our full collection of MCP servers for marketing and analytics.
+
+### Advertising MCP Servers
 - [Facebook Ads MCP](https://insightfulpipe.com/mcp-servers/facebook-ads) - Meta advertising analytics
-- [Google Analytics MCP](https://insightfulpipe.com/mcp-servers/google-analytics) - Website analytics
 - [TikTok Ads MCP](https://insightfulpipe.com/mcp-servers/tiktok-ads) - TikTok advertising
+- [LinkedIn Ads MCP](https://insightfulpipe.com/mcp-servers/linkedin-ads) - B2B advertising
+- [Microsoft Ads MCP](https://insightfulpipe.com/mcp-servers/microsoft-ads) - Bing advertising
+- [Pinterest Ads MCP](https://insightfulpipe.com/mcp-servers/pinterest-ads) - Pinterest advertising
+- [Snapchat Ads MCP](https://insightfulpipe.com/mcp-servers/snapchat-ads) - Snapchat advertising
+- [X Ads MCP](https://insightfulpipe.com/mcp-servers/x-ads) - Twitter/X advertising
+
+### Analytics MCP Servers
+- [Google Analytics MCP](https://insightfulpipe.com/mcp-servers/google-analytics) - Website analytics
+- [Google Search Console MCP](https://insightfulpipe.com/mcp-servers/google-search-console) - SEO analytics
+
+**[View All MCP Servers →](https://insightfulpipe.com/mcp-servers)**
 
 ## Resources
 
@@ -200,7 +216,12 @@ gemini mcp add --url https://google-ads.insightfulmcp.com/
 ## Support
 
 - **Documentation**: [insightfulpipe.com/docs](https://insightfulpipe.com/docs)
+- **All MCP Servers**: [insightfulpipe.com/mcp-servers](https://insightfulpipe.com/mcp-servers)
 - **Email**: support@insightfulpipe.com
+
+---
+
+**[Insightful Pipe](https://insightfulpipe.com)** — AI-powered marketing analytics through MCP servers. [Explore all integrations →](https://insightfulpipe.com/mcp-servers)
 
 ## License
 
